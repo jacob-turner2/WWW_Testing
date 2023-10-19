@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+c18d087590466adde9c82a3f20249f2fd7a8900f refs/heads/SMTP
+e50b42816f79d5f4284139338dc68f2a24916411 refs/heads/https-testing
+7943817667157c4f7cfd8cff231313f62f74ef1a refs/heads/jacob
+813fe472d18a679f01c7e50723979c46b301c301 refs/heads/main
+e40f3bb6e6ae07fa332b54b3b446499c2329656c refs/heads/test_webpages
