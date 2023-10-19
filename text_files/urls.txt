@@ -1,0 +1,11 @@
+https://accounts.google.com/InteractiveLogin/signinchooser?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AYZoVhfEFT0GnwBwVnqrJszI_3wL7KeUa78tgATKHND-2JC_bCG6xl-ZL0rpsqTFi_3oCJQiFwMs0w&osid=1&passive=1209600&service=mail&theme=glif
+https://cis.westpoint.edu/cis/login/dodbanner.cfm/
+https://www.google.com/
+https://openai.com/blog/chatgpt
+https://id.venmo.com/signin#/lgn
+https://www.youtube.com/
+https://www.instagram.com/
+https://ipps-a.army.mil/
+https://myaccess.dmdc.osd.mil/identitymanagement/app/login
+https://myaccess.dmdc.osd.mil/identitymanagement/app/
+https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=ee272b19-4411-433f-8f28-5c13cb6fd407&redirect_uri=https%3A%2F%2Fsupport.microsoft.com%2Fsignin-oidc&response_type=code%20id_token&scope=openid%20profile%20offline_access&response_mode=form_post&nonce=638319445511319531.MjY2YzU3YTYtZTlkNS00NDVkLThlMDgtYjcwOTI0MGZkZGFiYzM5YzM5MWMtMDA3Yi00Y2VhLWIyOTEtODA4YmE1MzQzNWJl&login_hint=simeon.olawaleapanpa%40westpoint.edu&nopa=2&state=CfDJ8Kiuy_B5JgFMo7PeP95NLhpp986lv_4tkPgcpBsyOtSplhSaR-JdAidHDB1Z5wlNwRIIa9M4Ms5rLMtnDfe3b2-ftNnCCMLao8sXpedZPIYpcPoXnrfAtAA6l1Il4EnXQMVHteSd17rSkX9l16DqDEb6VqwJrhDk4mD-Tnjxp94Mf4giLyR89U9OWLpsRp4rJ4tjP2v4GsM3qri9f2jjjvkIIOUPnsUFIasZY0juXto_YPHotPjgyL3AS_5fKSR7yaub4Xp3hdyCcg6n_-4kLFB57e-e3IBmEOhP_Wyn7NAhtUSu55ulZmUTr7iEu3WC7i6RnSLCFbFSplSU3t6IDqLKkeJgnnillQPL_tSmuz7hsxPk_8b4-t--ayMfPT-TwvCHt1pDu8vyqG4ZIJOd4QvjxSoL-5LW_mpl9gxH4ox3ivT2R78HFdJoEjsdAYKX-THQGqGhoK6GtEAdYz6R5zOsqxf3pst3_sW60ytQm09Z&x-client-SKU=ID_NET6_0&x-client-ver=6.30.1.0
