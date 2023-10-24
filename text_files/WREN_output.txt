@@ -1,7 +1,8 @@
+Overall WiFi Status: 
 
 Website Statuses: 
 Google Login: Connection Success: 200 
-Cis: CIS only accessable from WREN 
+Cis: Connection Success: 200 
 Google.com: Connection Success: 200 
 Chat GPT: Connection Success: 200 
 Venmo: Connection Success: 200 
@@ -11,6 +12,11 @@ IPPS-A: Connection Success: 200
 DS Login A: Connection Success: 200 
 DS Login B: Connection Success: 200 
 Microsoft Login: Connection Success: 200 
+
+DNS Statuses: 
+10.1.0.110: Accessable 
+10.1.0.120: Accessable 
+10.0.1.110: Unreachable 
 
 Microsoft Teams Ports Status: 
 Port 80: Open 
