@@ -15,7 +15,7 @@ def main():
     
     #Modules stores in the modules folder for checking all our ports and services
     web_pages.web_check("text_files/urls.txt", output_file)
-    dns_check.dns_checker("text_files/dns.txt", output_file)
+    # dns_check.dns_checker("text_files/dns.txt", output_file)
     teams_check.check_teams(output_file)
     outlook_check.check_outlook(output_file)
 

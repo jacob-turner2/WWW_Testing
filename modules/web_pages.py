@@ -13,17 +13,19 @@ def web_check(upath, output_file):
     lines = url_file.readlines()
     results = []
     for line in lines:
-        response = requests.get(line.strip())
-        if response.status_code >= 200 and response.status_code <= 299 :
-            results.append("Connection Success")
-            output_file.write(f"{line.strip()}: Connection Success: {response.status_code} \n")
-        elif response.status_code >= 300 and response.status_code <= 399:
-            results.append("Client error")
-            output_file.write(f"{line.strip()}: Client error: {response.status_code} \n")
-        elif response.status_code >= 400 and response.status_code <= 499:
-            results.append("Server error")
-            output_file.write(f"{line.strip()}: Server error: {response.status_code} \n")
-        else:
-            results.append("unknown")
-            output_file.write(f"{line.strip()}: unknown: {response.status_code} \n")
+        name, url = line.split(",")
+        current_line = url.strip()
+        try:
+            response = requests.get(current_line)
+            if response.status_code >= 200 and response.status_code <= 299 :
+                output_file.write(f"{name}: Connection Success: {response.status_code} \n")
+            elif response.status_code >= 300 and response.status_code <= 399:
+                output_file.write(f"{name}: Client error: {response.status_code} \n")
+            elif response.status_code >= 400 and response.status_code <= 499:
+                output_file.write(f"{name}: Server error: {response.status_code} \n")
+            else:
+                output_file.write(f"{name}: unknown: {response.status_code} \n")
+        except:
+            if "cis" in line:
+                output_file.write(f"{name}: CIS only accessable from WREN \n")
     return results
